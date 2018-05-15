@@ -22,13 +22,19 @@
     "@angular/platform-browser-dynamic": "^5.2.0",
     "@angular/router": "^5.2.0",
     "core-js": "^2.4.1",
+    "primeng": "^5.2.4",
+    "protractor": "^5.3.0",
     "rxjs": "^5.5.6",
-    "zone.js": "^0.8.19"
+    "ts-node": "^5.0.0",
+    "zone.js": "^0.8.19",
+    "font-awesome": "^4.7.0"
   },
   "devDependencies": {
     "@angular/cli": "~1.7.0",
     "@angular/compiler-cli": "^5.2.0",
     "@angular/language-service": "^5.2.0",
+    "@types/jasmine": "^2.8.6",
+    "@types/jasminewd2": "^2.0.3",
     "typescript": "~2.5.3"
   }
 }
